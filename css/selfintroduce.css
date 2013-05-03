@@ -27,7 +27,7 @@ body {
     position: fixed;
     top: 50px;
     left: 0px;
-    background-image: url("../img/koki.jpg")
+    /*background-image: url("../img/koki.jpg")   */
 }
 
 #content {
